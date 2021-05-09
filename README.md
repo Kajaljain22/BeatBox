@@ -4,10 +4,7 @@ BeatBox is a project based on HTML5, CSS, PaperJS for all the music enthusiasts.
 
 *Open the project and enjoy the beats by pressing different keys and generating different music combinations*
 
-### Steps to run the project
-1. Fork the project.
-2. Clone the repo
-3. Open BeatBox.html in browser
+#### Click [here](https://beat-boxer.herokuapp.com/) to view live demo!
 
 ***Like it? [Star this repo](https://github.com/Kajaljain22/BeatBox/) :star:***
 
